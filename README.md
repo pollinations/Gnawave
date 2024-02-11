@@ -1,3 +1,5 @@
+# Long Release Holger
+
 ### Gnawave Residency: Exploring Gnawa Music alongside AI ###
 
 Music is arguably one of the most emotional art forms, and yet it is closely interwoven with mathematical principles, sound physics and the careful crafting of musical instruments. Consequently, the evolution of music is closely linked with the history of musical instruments and the technologies used to perform, record and reproduce them. 
@@ -13,5 +15,26 @@ The goal is to facilitate a dialogue between Gnawa's timeless melodies and AI, p
 Gnawa music, with its foundational mluk songs and role in spiritual performances, presents a repetitive and finite repertoire ideal for AI synthesis. An open-source dataset will be a key outcome of the residency. The project prioritizes understanding how local Gnawa artists can share in the benefits from AI models derived from their music, while contributing to the ongoing preservation and development of their musical heritage.
 
 The final showcase at the Essaouria Festival will be a live jam, with German and Moroccan musicians synergizing Gnawa music and AI.
+
+Our aim is to attract support from institutions dedicated to the intersection of culture and technology.
+
+# Condensed Release, e-Mail (ChatGPT)
+**Gnawave Residency:** *A Fusion of Tradition and Innovation*
+**Discover the Intersection of Gnawa Music and AI.** We're uniting Moroccan and German talents to redefine the future of music. Our goal: to blend the soulful rhythms of Gnawa with the precision of artificial intelligence.
+**Collaborate Across Borders.** This project is a call to institutions passionate about **cultural preservation**, **technological innovation**, and **global partnership**.
+**Impact and Opportunity.** With outcomes like an open-source dataset, we aim to benefit Gnawa's heritage and advance AI research. This is more than a project; it's a movement towards preserving tradition through innovation.
+**Join Us** in this unique journey to shape the intersection of music and technology.
+
+
+# Earlier release, Thomash
+### Gnawave Residency: Exploring Gnawa Music alongside AI
+
+In the Gnawave Residency at the **Essaouira Gnawa and World Music Festival**, Moroccan and German musicians and AI developers collaborate to explore Gnawa music. This project aims to understand and appreciate Gnawa's unique patterns, while also examining AI's ability to learn from this musical tradition.
+
+Our goal is to facilitate **a dialogue between Gnawa's timeless melodies and AI**, promoting mutual learning and creative exchange. The residency is focused on understanding cultural heritage through technology.
+
+Gnawa music, with its foundational *mluk* songs and role in spiritual performances, presents a repetitive and finite repertoire ideal for AI synthesis. An **open-source dataset** will be a key outcome of the residency. The project prioritizes understanding how local Gnawa artists can **share in the benefits** from AI models derived from their music, while contributing to the ongoing preservation and development of their musical heritage.
+
+The final showcase at the Essaouria Festival will be a live jam, wit**h German and Moroccan musicians synergizing Gnawa music and AI.**
 
 Our aim is to attract support from institutions dedicated to the intersection of culture and technology.
