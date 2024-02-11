@@ -30,6 +30,21 @@ https://www.instagram.com/gnaouaculture/
 
 ## Gnawave Release
 
+### Short
+With "Gnawave", Gats and Khalil Mounji invite us on a musical journey that transcends borders and genres, fusing Moroccan Gnawa tradition with the electrifying energy of Berlin's underground scene.
+In honor of the late Maallem Said Benthami Oughassal, the revered Gnawa master whose spirit continues to inspire, "Gnawave" is a heartfelt dedication that pays homage to his enduring legacy. May he rest in peace, his influence resonates through every note and beat of this album. As we embrace the profound influence of Maallem Said Benthami Oughassal on Khalil' playing, we also recognize the importance of supporting his family, especially his 7-year-old daughter Rihanna, during this challenging time. To give back to the family of the master, we have established a fund from the proceeds of "Gnawave." We encourage our listeners and fans to contribute generously to this cause, ensuring that the future of this young talent is secure and her dreams are nurtured, just as her father's music has enriched our lives. Let us come together in unity, just as "Gnawave" unites traditions and genres, to provide tangible support to the family of a true Gnawa legend.
+credits
+released December 1, 2023
+
+
+### Long
+
+Mixing all tracks except Salanabina, Loghmami (Thomash Mix) and Sidi Bouganga: Andreas Köhn
+Mastering: Andreas Köhn
+Cover Art: Ulrich Okujeni
+Cover Design: Danae Catalan
+Saxophone on Berkilia: Fah Rouge
+
 Casablanca, October 27, 2023,
 A unique musical journey unfolds with the release of "GNAWAVE," an album created through an innovative collaboration between Moroccan Gnawa musicians and electronic music artists from Berlin, scheduled for December 1st. This album represents a bridge between cultures, showcasing the rich heritage of Moroccan music merged with the vibrant energy of Berlin's underground scene.
 The heart of "GNAWAVE" lies in its tribute to the late Saïd Ougassal, a master of Gnawa music, who left an indelible mark on his student and our lead musician, Khalil Mounji. This album is not just a collection of songs; it's a sincere homage, the continuation of a legacy, and the testimony of the immortal spirit of Gnawa music.
@@ -46,6 +61,9 @@ Khalil Mounji is a Gnawa musician and community activist who blends tradition an
 
 
 ![gnawave release](https://github.com/pollinations/Gnawave/assets/5099901/56404c69-4883-4077-8501-abb52a4cfdc7)
+
+<img width="802" alt="gnawave bandcamp" src="https://github.com/pollinations/Gnawave/assets/5099901/dcc42d73-409f-4b87-ab01-d98b81305363">
+
 
 
 # Long Release Holger
