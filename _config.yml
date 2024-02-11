@@ -7,7 +7,7 @@ github_username:  pollinations
 
 # Build settings
 markdown: kramdown
-theme: beautiful-jekyll # Updated theme for a modern and visually appealing look
+theme: hacker # Updated theme for a modern and visually appealing look
 plugins:
   - jekyll-feed
   - jekyll-seo-tag # Added for better SEO
