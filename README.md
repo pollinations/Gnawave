@@ -64,6 +64,7 @@ Khalil Mounji is a Gnawa musician and community activist who blends tradition an
 
 <img width="802" alt="gnawave bandcamp" src="https://github.com/pollinations/Gnawave/assets/5099901/dcc42d73-409f-4b87-ab01-d98b81305363">
 
+<img width="943" alt="Screenshot 2024-02-11 at 23 49 15" src="https://github.com/pollinations/Gnawave/assets/5099901/223a02c8-3f82-494f-b9bc-9cb596282bb6">
 
 
 # Long Release Holger
