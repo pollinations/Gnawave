@@ -1,3 +1,13 @@
+# Main Points
+* **Collaboration between Moroccan and German musicians and AI developers**: International and interdisciplinary nature of the residency.
+* **Exploration of Gnawa Music through AI**: A core focus on understanding and integrating Gnawa music's unique patterns with AI technology.
+* **Cultural Preservation and Technological Innovation**: Highlighting the residency's dual aim of preserving Gnawa music while advancing AI research.
+* **Open-Source Dataset**: Mentioned as a key outcome, beneficial for both cultural heritage and technological advancement.
+* **Final Showcase at the Essaouira Festival**: A live jam session illustrating the fusion of Gnawa music and AI, showcasing the project's achievements.
+* **Engagement with Institutions**: Seeking support and collaboration from entities at the intersection of culture and technology.
+
+
+
 # Long Release Holger
 
 ### Gnawave Residency: Exploring Gnawa Music alongside AI ###
