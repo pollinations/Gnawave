@@ -9,6 +9,8 @@ title: Gnawave Project Overview
 
 The Gnawave Project stands at the forefront of a pioneering initiative, bridging Moroccan Gnawa music traditions with contemporary artificial intelligence research. This collaboration underscores the interdisciplinary nature of cultural preservation through technological innovation, engaging both Moroccan and German expertise in a dialogue that transcends geographical and disciplinary boundaries.
 
+![GnaouaCultureLogo](/media/5099901/8f83692b-8305-4323-a61c-e738240b6c2c)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -18,9 +20,9 @@ The Gnawave Project stands at the forefront of a pioneering initiative, bridging
 - [Residency Program Insights](#residency-program-insights)
 - [Institutional Engagement and Support](#institutional-engagement-and-support)
 
-## Project Overview
+The Gnawave Project is an interdisciplinary residency program that integrates the unique rhythmic patterns of Gnawa music with the analytical capabilities of artificial intelligence. This initiative not only aims to preserve a vital cultural heritage but also to expand the horizons of AI research in understanding and replicating complex musical traditions.
 
-The Gnawave Project is an interdisciplinary residency program that integrates the unique rhythmic patterns of Gnawa music with the analytical capabilities of artificial intelligence. This initiative not only aims to preserve a vital cultural heritage but also to expand the horizons of AI research in understanding and replicating complex musical traditions. 
+![gnawave release](/media/5099901/56404c69-4883-4077-8501-abb52a4cfdc7)
 
 ## Collaborative Objectives
 
@@ -34,6 +36,8 @@ The project brings together a diverse group of Moroccan and German musicians, AI
 
 The "Gnawave" release serves as a testament to the project's achievements, featuring a fusion of Gnawa music with electronic influences from Berlin's underground scene. This album not only celebrates the legacy of Maallem Said Benthami Oughassal but also supports his family, showcasing the project's commitment to community and cultural sustainability.
 
+![Screenshot 2024-02-11 at 23 49 15](/media/5099901/223a02c8-3f82-494f-b9bc-9cb596282bb6)
+
 ## Residency Program Insights
 
 Set against the backdrop of the Essaouira Festival, the Gnawave Residency Program embodies the project's core objectives of exploration and integration. Through workshops, performances, and collaborative sessions, participants delve into the technical and cultural facets of this unique fusion, culminating in a live showcase that embodies the innovative spirit of the project.
@@ -41,4 +45,3 @@ Set against the backdrop of the Essaouira Festival, the Gnawave Residency Progra
 ## Institutional Engagement and Support
 
 We invite institutions at the intersection of culture, technology, and education to join us in supporting the Gnawave Project. Your involvement can help amplify the impact of this initiative, ensuring the preservation of Gnawa music and contributing to the advancement of AI research. For partnership opportunities and support, please contact us.
-
