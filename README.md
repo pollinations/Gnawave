@@ -1,4 +1,4 @@
-# Main Points
+# Overview
 * **Collaboration between Moroccan and German musicians and AI developers**: International and interdisciplinary nature of the residency.
 * **Exploration of Gnawa Music through AI**: A core focus on understanding and integrating Gnawa music's unique patterns with AI technology.
 * **Cultural Preservation and Technological Innovation**: Highlighting the residency's dual aim of preserving Gnawa music while advancing AI research.
@@ -6,7 +6,25 @@
 * **Final Showcase at the Essaouira Festival**: A live jam session illustrating the fusion of Gnawa music and AI, showcasing the project's achievements.
 * **Engagement with Institutions**: Seeking support and collaboration from entities at the intersection of culture and technology.
 
+# Participants
 
+
+Gnaoua Culture
+Promoting Gnaoua culture through research, education & collaboration. Sharing resources, building documentation & representing authentically.
+
+<img width="781" alt="GnaouaCultureInstagram" src="https://github.com/pollinations/Gnawave/assets/5099901/90ba74be-f29c-4079-9ed5-ecaf14970f0b">
+https://www.instagram.com/gnaouaculture/
+
+
+
+![GnaouaCultureLogo](https://github.com/pollinations/Gnawave/assets/5099901/8f83692b-8305-4323-a61c-e738240b6c2c)
+
+
+[youtu.be/JLNQ9oAOu8g?feature=shared](https://l.instagram.com/?u=https%3A%2F%2Fyoutu.be%2FJLNQ9oAOu8g%3Ffeature%3Dshared&e=AT0crQsHFhe1f04p1oVbsYW0VSbk6138TB32JeqlTm8vW4XHLEm7ZhuHSLIcE78Sbff6i9j38lgXmpD15A5kE7kxv6XPRjAsdIL5wpA)[](https://www.instagram.com/gnaouaculture/followers/mutualOnly)
+
+<img width="840" alt="Screenshot 2024-02-11 at 23 30 23" src="https://github.com/pollinations/Gnawave/assets/5099901/8788e29e-29aa-4297-a294-b3629889f1ea">
+
+https://www.instagram.com/gnaouaculture/
 
 # Long Release Holger
 
