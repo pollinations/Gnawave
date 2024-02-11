@@ -22,9 +22,31 @@ https://www.instagram.com/gnaouaculture/
 
 [youtu.be/JLNQ9oAOu8g?feature=shared](https://l.instagram.com/?u=https%3A%2F%2Fyoutu.be%2FJLNQ9oAOu8g%3Ffeature%3Dshared&e=AT0crQsHFhe1f04p1oVbsYW0VSbk6138TB32JeqlTm8vW4XHLEm7ZhuHSLIcE78Sbff6i9j38lgXmpD15A5kE7kxv6XPRjAsdIL5wpA)[](https://www.instagram.com/gnaouaculture/followers/mutualOnly)
 
+<img width="890" alt="Screenshot 2024-02-11 at 23 27 51" src="https://github.com/pollinations/Gnawave/assets/5099901/656c4ba9-484f-485e-be82-ec43c6ead0f9">
+
 <img width="840" alt="Screenshot 2024-02-11 at 23 30 23" src="https://github.com/pollinations/Gnawave/assets/5099901/8788e29e-29aa-4297-a294-b3629889f1ea">
 
 https://www.instagram.com/gnaouaculture/
+
+## Gnawave Release
+
+Casablanca, October 27, 2023,
+A unique musical journey unfolds with the release of "GNAWAVE," an album created through an innovative collaboration between Moroccan Gnawa musicians and electronic music artists from Berlin, scheduled for December 1st. This album represents a bridge between cultures, showcasing the rich heritage of Moroccan music merged with the vibrant energy of Berlin's underground scene.
+The heart of "GNAWAVE" lies in its tribute to the late Saïd Ougassal, a master of Gnawa music, who left an indelible mark on his student and our lead musician, Khalil Mounji. This album is not just a collection of songs; it's a sincere homage, the continuation of a legacy, and the testimony of the immortal spirit of Gnawa music.
+Remarkably, "GNAWAVE" was created entirely over the internet, bringing together artists who have never met in person but share a common vision. This digital collaboration underscores the unifying power of music and the possibilities of modern technology.
+**Album Highlights:**
+* Fusion of traditional Moroccan Gnawa music with contemporary electronic sounds from Berlin.
+* A tribute to Gnawa master, Saïd Ougassal.
+* An entirely remote international collaboration.
+
+⠀"GNAWAVE" will be available on all major streaming platforms starting December 1st. Join us in celebrating the release of "GNAWAVE" and experience the harmonious blend of tradition and innovation. For more information, interviews, or promotional requests, please contact Khalil Mounji at khalil.mounji@gmail.com or at 0664635171.
+**About the Artists**
+GATS, also known by the names Voltags, Changa Boys, shostandthesons, Solarbaby, Lagoon, and Gates, is a producer, DJ, and performer based in Berlin, Germany. His music is a unique blend of psychedelic dance music with references to various micro-genres from the last 60 years. Adopting a boundary-less approach in exploring samples, with an eye on both the analog and digital worlds, Gates' work expresses the freedom of eclecticism.
+Khalil Mounji is a Gnawa musician and community activist who blends tradition and modernity to create a unique style. He founded Gnaoua Culture, an organization that uses technology to promote and preserve the Gnawa heritage through music and education. He is dedicated to sharing the wealth of Gnawa culture with the world.
+
+
+![gnawave release](https://github.com/pollinations/Gnawave/assets/5099901/56404c69-4883-4077-8501-abb52a4cfdc7)
+
 
 # Long Release Holger
 
