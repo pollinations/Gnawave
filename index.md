@@ -11,12 +11,19 @@ The Gnawave Project leads an innovative initiative, connecting Moroccan Gnawa mu
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
+- [Introduction](#introduction)
 - [Collaborative Objectives](#collaborative-objectives)
+  - [Outcomes](#outcomes)
+    - [Open-Source Dataset and Musical Data Visualizations](#open-source-dataset-and-musical-data-visualizations)
+    - [Music Release](#music-release)
+    - [Collaborative Live Performance](#collaborative-live-performance)
 - [Project Todo List](#project-todo-list)
 - [Participants and Partners](#participants-and-partners)
 - [Artists and Collaborators](#artists-and-collaborators)
-- [Open-Source Dataset](#open-source-dataset)
+  - [Featured Artists](#featured-artists)
+    - [Gats](#gats)
+    - [Khalil Mounji](#khalil-mounji)
+    - [Saeko Okuchi (Saeko Killy)](#saeko-okuchi-saeko-killy)
 - [Gnawave Release Highlights](#gnawave-release-highlights)
 - [Residency Program Insights](#residency-program-insights)
 - [Institutional Engagement and Support](#institutional-engagement-and-support)
