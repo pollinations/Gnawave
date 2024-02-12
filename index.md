@@ -9,9 +9,11 @@ For a concise summary, see the [One-Pager](./one-pager.html).
 
 ## **Introduction** 🚀
 
-- **Essence**: Fusion of **Moroccan Gnawa music** and **AI technology** for cultural preservation and innovation.
-- **Goal**: To preserve Gnawa music and explore AI's potential in understanding complex musical traditions.
-- **Collaboration**: Between Moroccan and German experts, spanning geographical and disciplinary boundaries. The project kicks off with a residency starting on **_Thu, Jun 13, 2024_**, leading up to the Essaouira Festival.
+- **Essence**: A blend of **Moroccan Gnawa music** and **AI technology** aimed at cultural preservation and artistic exploration.
+- **Goal**: To safeguard Gnawa music while delving into AI's role in deciphering and enhancing complex musical traditions.
+- **Collaboration**: A partnership between Moroccan and German experts, bridging geographical and disciplinary divides. The initiative begins with a residency leading to the Essaouira Festival.
+- **Residency Start Date**: **_Thu, Jun 13, 2024_**
+- **Location**: Essaouira, Morocco
 
 ## **Table of Contents** 📚
 
@@ -29,26 +31,25 @@ For a concise summary, see the [One-Pager](./one-pager.html).
 - [Gnawave Release Highlights](#gnawave-release-highlights)
 - [Institutional Engagement and Support](#institutional-engagement-and-support)
 
-The **Gnawave Project** is an *interdisciplinary initiative* that merges the **distinctive rhythmic patterns** of *Gnawa music* with the **analytical capabilities** of *artificial intelligence*. This initiative seeks to preserve a *vital cultural heritage* and to broaden the scope of AI research in understanding and replicating complex musical traditions. The project's residency phase begins on Thu, Jun 13, 2024, and culminates with the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024.
+The **Gnawave Project** is an *interdisciplinary initiative* that combines the **unique rhythms** of *Gnawa music* with the **creative applications** of *artificial intelligence*. This project aims to preserve important cultural heritage while expanding the boundaries of AI in music. The residency phase starts on Thu, Jun 13, 2024, and concludes with the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024.
 
 ## **Collaborative Objectives** 🎯
 
-Our mission is **threefold**: to ensure the *longevity and global recognition* of **Gnawa music** through digital documentation and innovation, to investigate the potential of AI in capturing and enhancing the essence of traditional musical expressions, and to integrate AI-generated samples into new creative outputs. This collaboration aims to create a mutual benefit between **cultural preservation**, **technological progress**, and **artistic innovation**.
+Our mission is **threefold**: to promote the *endurance and worldwide recognition* of **Gnawa music** through digital innovation, to explore AI's ability to interpret and augment traditional musical forms, and to produce new artistic works incorporating AI-generated samples. This collaboration seeks to mutually benefit **cultural preservation**, **technological exploration**, and **artistic creation**.
 
 ### **Open-Source Dataset and Musical Data Visualizations** 📊
 
-A key outcome of the **Gnawave Project** is the creation of an *open-source dataset*, which is highlighted as beneficial for both **cultural heritage** and **technological advancement**. This dataset, along with innovative musical data visualizations, will serve as valuable resources for further research and innovation at the intersection of music and artificial intelligence. These tools foster a deeper understanding of the intricate rhythms and melodies of Gnawa music, offering new perspectives through visual representation of musical patterns.
+A primary deliverable of the **Gnawave Project** is an *open-source dataset*, crucial for both **cultural heritage** and **technological exploration**. Accompanied by innovative musical data visualizations, these resources will be instrumental for ongoing research and creative projects at the nexus of music and AI. They offer insights into Gnawa music's complex rhythms and melodies, providing fresh perspectives through the visual analysis of musical structures.
 
 ![Rhythm Visualization](/media/rhythmneck.png){:width="512px"}
 
 ### **Music Release** 🎶
 
-This project is set to unveil a music release that is a testament to the rich collaboration between **Moroccan and German artists**, integrating AI-generated samples of Gnawa music. This blend of traditional sounds with contemporary electronic music elements not only celebrates the fusion of diverse cultural heritages but also ventures into new realms of music production. The release coincides with the culmination of the Gnawave Project's residency and the Essaouira Festival in June 2024.
+The project will release music that embodies the collaboration between **Moroccan and German artists**, featuring AI-generated interpretations of Gnawa music. This fusion not only honors the merging of different cultures but also opens new avenues in music production. The digital release aligns with the Gnawave Project's residency end and the Essaouira Festival in June 2024.
 
 ### **Collaborative Live Performance** 🎤
 
-Furthering the project's commitment to innovation, the **Gnawave Project** will host a live performance that showcases a unique blend of AI-enhanced interpretations of Gnawa music and collaborative artistry. This event will feature AI-generated samples and real-time AI processing, offering an immersive experience that underscores the creative synergy of traditional music and modern technology. The live performance is scheduled during the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024.
-
+In line with our innovation goals, the **Gnawave Project** will present a live performance, blending AI-enhanced Gnawa music with collaborative artistry. This performance, featuring AI-generated samples and real-time AI processing, will provide an immersive experience that highlights the synergy between traditional music and contemporary technology. Scheduled for the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024, it represents a key project milestone.
 ## **Project Todo List** ✅
 
 - [x] Create first draft of website
@@ -93,13 +94,13 @@ Additional collaborations include **Moroccan and German musicians**, **AI develo
 
 ![Saeko Killy](/media/saekokilly.jpeg){:width="300px"}
 
-## **Gnawave Release Highlights** 🌟
+## **Gnawave Release** 🌟 - December 1, 2023
 
-The "**Gnawave**" release exemplifies the project's accomplishments, featuring a blend of Gnawa music with electronic elements from Berlin's underground scene. This album not only honors the legacy of *Maallem Said Benthami Oughassal* but also supports his family, demonstrating the project's dedication to community and cultural sustainability.
+The "**Gnawave**" release, dated December 1, 2023, showcases the project's achievements by merging Gnawa music with electronic elements from Berlin's underground scene. This album pays tribute to *Maallem Said Benthami Oughassal*'s legacy and supports his family, reflecting the project's commitment to community and cultural sustainability.
 
 <iframe width="512px" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1729743579&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/g-a-t-s" title="Gats" target="_blank" style="color: #cccccc; text-decoration: none;">Gats</a> · <a href="https://soundcloud.com/g-a-t-s/sets/gnawave" title="Gnawave" target="_blank" style="color: #cccccc; text-decoration: none;">Gnawave on SoundCloud</a></div>
 
-![gnawave release](/media/gnawave release.jpeg){:width="512px"}
+[![gnawave release](/media/gnawave_release.jpeg){:width="256px"}](/media/gnawave_release.jpeg)
 
 ## **Institutional Engagement and Support** 🏛️
 
