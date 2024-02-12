@@ -7,9 +7,7 @@ title: Gnawave Project Overview
 
 ## Introduction
 
-The Gnawave Project stands at the forefront of a pioneering initiative, bridging Moroccan Gnawa music traditions with contemporary artificial intelligence research. This collaboration underscores the interdisciplinary nature of cultural preservation through technological innovation, engaging both Moroccan and German expertise in a dialogue that transcends geographical and disciplinary boundaries.
-
-![GnaouaCultureLogo](/media/5099901/8f83692b-8305-4323-a61c-e738240b6c2c)
+The Gnawave Project leads an innovative initiative, connecting Moroccan Gnawa music traditions with contemporary artificial intelligence research. This collaboration highlights the interdisciplinary approach to cultural preservation through technological innovation, involving both Moroccan and German expertise in a dialogue that spans geographical and disciplinary boundaries.
 
 ## Table of Contents
 
@@ -20,28 +18,39 @@ The Gnawave Project stands at the forefront of a pioneering initiative, bridging
 - [Residency Program Insights](#residency-program-insights)
 - [Institutional Engagement and Support](#institutional-engagement-and-support)
 
-The Gnawave Project is an interdisciplinary residency program that integrates the unique rhythmic patterns of Gnawa music with the analytical capabilities of artificial intelligence. This initiative not only aims to preserve a vital cultural heritage but also to expand the horizons of AI research in understanding and replicating complex musical traditions.
+The Gnawave Project is an interdisciplinary residency program that merges the distinctive rhythmic patterns of Gnawa music with the analytical capabilities of artificial intelligence. This initiative seeks to preserve a vital cultural heritage and to broaden the scope of AI research in understanding and replicating complex musical traditions.
 
-![gnawave release](/media/5099901/56404c69-4883-4077-8501-abb52a4cfdc7)
 
 ## Collaborative Objectives
 
-Our mission is twofold: to ensure the longevity and global appreciation of Gnawa music through digital documentation and innovation, and to explore the potential of AI in capturing and extending the essence of traditional musical expressions. This collaboration seeks to foster a reciprocal relationship between cultural preservation and technological advancement.
+Our mission is dual: to ensure the longevity and global recognition of Gnawa music through digital documentation and innovation, and to investigate the potential of AI in capturing and enhancing the essence of traditional musical expressions. This collaboration aims to create a mutual benefit between cultural preservation and technological progress.
 
 ## Participants and Partners
 
-The project brings together a diverse group of Moroccan and German musicians, AI developers, and cultural preservationists. Each participant contributes a unique set of skills and perspectives, facilitating a rich exchange of knowledge and creative practices.
+The Gnawave Project is a collaborative endeavor that brings together a diverse group of talents and organizations, each contributing their unique expertise. Below is a list of our esteemed partners:
+
+- **Gnaoua Culture**: A key organization committed to the promotion and preservation of Gnaoua culture through research, education, and collaboration. Gnaoua Culture is instrumental in documenting and authentically representing Gnawa music and traditions, using technology to share this rich heritage worldwide.
+
+![GnaouaCultureLogo](/media/GnaouaCultureLogo.png){:width="200px"}
+
+- **Gnaoua World Music Festival**: A renowned event that showcases the rich musical traditions of Gnawa alongside other world music genres. The festival offers a dynamic platform for artists and audiences to engage and share in the spirit of music and cultural exchange.
+
+![Gnaoua World Music Festival](/media/gnaoua_festival.png){:width="200px"}
+
+![Gnaoua World Music Festival](/media/gnaoua_world_music_festival.jpeg){:width="512px"}
+
+Additional collaborations include Moroccan and German musicians, AI developers, and cultural preservationists, all contributing to a vibrant exchange of knowledge and creative practices.
 
 ## Gnawave Release Highlights
 
-The "Gnawave" release serves as a testament to the project's achievements, featuring a fusion of Gnawa music with electronic influences from Berlin's underground scene. This album not only celebrates the legacy of Maallem Said Benthami Oughassal but also supports his family, showcasing the project's commitment to community and cultural sustainability.
+The "Gnawave" release exemplifies the project's accomplishments, featuring a blend of Gnawa music with electronic elements from Berlin's underground scene. This album not only honors the legacy of Maallem Said Benthami Oughassal but also supports his family, demonstrating the project's dedication to community and cultural sustainability.
 
-![Screenshot 2024-02-11 at 23 49 15](/media/5099901/223a02c8-3f82-494f-b9bc-9cb596282bb6)
+![gnawave release](/media/gnawave release.jpeg){:width="512px"}
 
 ## Residency Program Insights
 
-Set against the backdrop of the Essaouira Festival, the Gnawave Residency Program embodies the project's core objectives of exploration and integration. Through workshops, performances, and collaborative sessions, participants delve into the technical and cultural facets of this unique fusion, culminating in a live showcase that embodies the innovative spirit of the project.
+Held during the Essaouira Festival, the Gnawave Residency Program represents the project's fundamental goals of exploration and integration. Through workshops, performances, and collaborative sessions, participants explore the technical and cultural aspects of this unique fusion, culminating in a live showcase that reflects the project's innovative spirit.
 
 ## Institutional Engagement and Support
 
-We invite institutions at the intersection of culture, technology, and education to join us in supporting the Gnawave Project. Your involvement can help amplify the impact of this initiative, ensuring the preservation of Gnawa music and contributing to the advancement of AI research. For partnership opportunities and support, please contact us.
+We encourage institutions at the crossroads of culture, technology, and education to support the Gnawave Project. Your participation can significantly enhance the impact of this initiative, ensuring the preservation of Gnawa music and furthering AI research. For partnership opportunities and support, please contact us.
