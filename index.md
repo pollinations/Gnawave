@@ -26,7 +26,21 @@ The Gnawave Project is an interdisciplinary residency program that merges the di
 
 ## Collaborative Objectives
 
-Our mission is dual: to ensure the longevity and global recognition of Gnawa music through digital documentation and innovation, and to investigate the potential of AI in capturing and enhancing the essence of traditional musical expressions. This collaboration aims to create a mutual benefit between cultural preservation and technological progress.
+Our mission is threefold: to ensure the longevity and global recognition of Gnawa music through digital documentation and innovation, to investigate the potential of AI in capturing and enhancing the essence of traditional musical expressions, and to integrate AI-generated samples into new creative outputs. This collaboration aims to create a mutual benefit between cultural preservation, technological progress, and artistic innovation.
+
+### Open-Source Dataset and Musical Data Visualizations
+
+A key outcome of the Gnawave Project is the creation of an open-source dataset, which is highlighted as beneficial for both cultural heritage and technological advancement. This dataset, along with innovative musical data visualizations, will serve as valuable resources for further research and innovation at the intersection of music and artificial intelligence. These tools foster a deeper understanding of the intricate rhythms and melodies of Gnawa music, offering new perspectives through visual representation of musical patterns.
+
+![Rhythm Visualization](/media/rhythmneck.png){:width="512px"}
+
+### Music Release
+
+This project is set to unveil a music release that is a testament to the rich collaboration between Moroccan and German artists, integrating AI-generated samples of Gnawa music. This blend of traditional sounds with contemporary electronic music elements not only celebrates the fusion of diverse cultural heritages but also ventures into new realms of music production.
+
+### Collaborative Live Performance
+
+Furthering the project's commitment to innovation, the Gnawave Project will host a live performance that showcases a unique blend of AI-enhanced interpretations of Gnawa music and collaborative artistry. This event will feature AI-generated samples and real-time AI processing, offering an immersive experience that underscores the creative synergy of traditional music and modern technology.
 
 ## Project Todo List
 
@@ -71,12 +85,6 @@ Saeko Okuchi, known as Saeko Killy, is a key figure in the Leftfield Clubsound s
 [Discover Saeko Killy's latest release](https://www.bureau-b.com/saeko_killy.php)
 
 ![Saeko Killy](/media/saekokilly.jpeg){:width="300px"}
-
-## Open-Source Dataset and Musical Data Visualizations
-
-A key outcome of the Gnawave Project is the creation of an open-source dataset, which is highlighted as beneficial for both cultural heritage and technological advancement. This dataset, along with innovative musical data visualizations, will serve as valuable resources for further research and innovation at the intersection of music and artificial intelligence. These tools foster a deeper understanding of the intricate rhythms and melodies of Gnawa music, offering new perspectives through visual representation of musical patterns.
-
-![Rhythm Visualization](/media/rhythmneck.png){:width="512px"}
 
 ## Gnawave Release Highlights
 
