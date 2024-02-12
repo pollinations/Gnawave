@@ -5,11 +5,11 @@ title: Gnawave Projektübersicht
 
 # **Gnawave Projektübersicht**
 
-Für eine detaillierte Einführung siehe die [Hauptseite](./index-de.html).
+Für eine detaillierte Einführung, siehe die [Hauptseite](./index-de.html).
 
 ## **Schnellübersicht**
 
-- **Wesen**: Eine kollaborative Fusion aus **marokkanischer Gnawa-Musik**, **europäischem künstlerischem Feingefühl** und **KI-Kreativität** zur kulturellen Bewahrung und innovativen Ausdrucksform.
+- **Essenz**: Eine kollaborative Fusion aus **marokkanischer Gnawa-Musik**, **europäischem künstlerischem Feingefühl**, und **KI-Kreativität** zur kulturellen Bewahrung und innovativen Ausdrucksform.
 - **Ziel**: Das reiche Erbe der Gnawa-Musik zu schützen, während die Synergien zwischen traditionellen Musikern, europäischen Künstlern und KI-Kreativen bei der Erstellung komplexer musikalischer Erzählungen erforscht werden.
 - **Zusammenarbeit**: Ein internationales Unterfangen, das marokkanische und europäische Künstler mit KI-Kreativen vereint, um geografische und disziplinäre Grenzen zu überwinden.
 - **Beginn der Residenz**: Do., 13. Juni 2024, gipfelnd in einer Vorstellung beim Essaouira-Festival.
@@ -17,7 +17,7 @@ Für eine detaillierte Einführung siehe die [Hauptseite](./index-de.html).
 
 ## **Kernkomponenten**
 
-- **Kollaborative Plattform**: Entwicklung eines gemeinsamen Raums für Künstler, Musiker und KI-Kreative zum Austausch von Ideen und Innovationen an der Schnittstelle von Musik und Technologie.
+- **Kollaborative Plattform**: Entwicklung eines gemeinsamen Raumes für Künstler, Musiker, und KI-Kreative zum Austausch von Ideen und Innovationen an der Schnittstelle von Musik und Technologie.
 - **Musikveröffentlichung**: Eine harmonische Mischung aus traditionellen Gnawa-Rhythmen, europäischen künstlerischen Einflüssen und von KI generierten Elementen.
 - **Live-Auftritt**: Eine Vorstellung von kollaborativen Werken, die Gnawa-Musik mit europäischer Kunstfertigkeit und KI-Innovation während des Essaouira-Festivals von Do., 27. Juni 2024 – Sa., 29. Juni 2024 verbinden.
 
@@ -29,14 +29,14 @@ Für eine detaillierte Einführung siehe die [Hauptseite](./index-de.html).
 
 ## **Beteiligte und Partner**
 
-- **Gnaoua-Kultur**: Feiern und Bewahren der Gnaoua-Kultur durch gemeinsame Forschung, Bildung und künstlerische Bemühungen.
+- **Gnaoua Kultur**: Feiern und Bewahren der Gnaoua-Kultur durch gemeinsame Forschung, Bildung, und künstlerische Bemühungen.
   - ![GnaouaCultureLogo](/media/GnaouaCultureLogo.png){:width="200px"}
 - **Festival Gnaoua**: Hervorhebung der reichen musikalischen Traditionen der Gnawa neben globalen Musikgenres während des Essaouira-Festivals von Do., 27. Juni 2024 – Sa., 29. Juni 2024.
   - ![Festival Gnaoua](/media/gnaoua_festival.png){:width="200px"}
 
 ## **Ausgewählte Künstler**
 
-- **Matthias Kanik (Gats)**: Verbindung marokkanischer Gnawa-Traditionen mit der Berliner Underground-Szene und innovativen KI-Elementen.
+- **Matthias Kanik (Gats)**: Merging marokkanischer Gnawa-Traditionen mit Berlins Underground-Szene und innovativen KI-Elementen.
   - ![gats](/media/gats.jpeg){:width="200px"}
 - **Khalil Mounji**: Ein Gnawa-Musiker und Befürworter von gemeinschaftsgetriebener Kunst.
   - ![Khalil Mounji](/media/khalil.jpeg){:width="200px"}
@@ -50,9 +50,11 @@ Für eine detaillierte Einführung siehe die [Hauptseite](./index-de.html).
 
 ## **Unterstützung und Beteiligung**
 
-- **Aufruf zum Handeln**: Einladung an Institutionen an der Schnittstelle von Kultur, Kunst und Technologie, das Gnawave-Projekt zu unterstützen, insbesondere während der Residenz ab Do., 13. Juni 2024, und dem Essaouira-Festival von Do., 27. Juni 2024 – Sa., 29. Juni 2024.
+- **Call to Action**: Einladung an Institutionen an der Schnittstelle von Kultur, Kunst, und Technologie, das Gnawave-Projekt zu unterstützen, insbesondere während der Residenz ab Do., 13. Juni 2024, und dem Essaouira-Festival von Do., 27. Juni 2024 – Sa., 29. Juni 2024.
 
 ## **Kontakt für Partnerschaften und Unterstützung**
+
+- For partnership opportunities und Unterstützung, bitte wenden Sie sich an:
 
 Für Partnerschaftsmöglichkeiten und Unterstützung wenden Sie sich bitte an:
 
