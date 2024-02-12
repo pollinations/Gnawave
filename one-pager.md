@@ -32,7 +32,7 @@ title: Gnawave Project Overview
 
 ## **Featured Artists**
 
-- **Gats**: Blending Moroccan Gnawa traditions with Berlin's underground scene.
+- **Matthias Kanik (Gats)**: Blending Moroccan Gnawa traditions with Berlin's underground scene.
   - ![gats](/media/gats.jpeg){:width="200px"}
 - **Khalil Mounji**: A Gnawa musician and community activist.
   - ![Khalil Mounji](/media/khalil.jpeg){:width="200px"}

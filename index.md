@@ -5,11 +5,13 @@ title: 🎶 Gnawave Project Overview 🎶
 
 # **Gnawave Project Overview** 🌍🎵
 
-For a concise summary, see our [One-Pager]({% link one_pager.md %}).
+For a concise summary, see the [One-Pager](./one-pager.html).
 
 ## **Introduction** 🚀
 
-The **Gnawave Project** leads an innovative initiative, connecting Moroccan **Gnawa music traditions** with contemporary **artificial intelligence research**. This collaboration highlights the interdisciplinary approach to cultural preservation through technological innovation, involving both Moroccan and German expertise in a dialogue that spans geographical and disciplinary boundaries. The project also encompasses an interdisciplinary residency program during the **Essaouira Festival**, where participants explore the technical and cultural aspects of this unique fusion, reflecting the project's innovative spirit.
+- **Essence**: Fusion of **Moroccan Gnawa music** and **AI technology** for cultural preservation and innovation.
+- **Goal**: To preserve Gnawa music and explore AI's potential in understanding complex musical traditions.
+- **Collaboration**: Between Moroccan and German experts, spanning geographical and disciplinary boundaries..
 
 ## **Table of Contents** 📚
 
