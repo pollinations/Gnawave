@@ -21,7 +21,7 @@ The **Gnawave Project** leads an innovative initiative, connecting Moroccan **Gn
 - [Project Todo List](#project-todo-list)
 - [Participants and Partners](#participants-and-partners)
 - [Artists and Collaborators](#artists-and-collaborators)
-  - [Gats](#gats)
+  - [Gats (Matthias Kanik)](#gats-matthias-kanik)
   - [Khalil Mounji](#khalil-mounji)
   - [Saeko Okuchi (Saeko Killy)](#saeko-okuchi-saeko-killy)
 - [Gnawave Release Highlights](#gnawave-release-highlights)
@@ -71,9 +71,9 @@ Additional collaborations include **Moroccan and German musicians**, **AI develo
 
 ## **Artists and Collaborators** 🎨
 
-### **Gats**
+### **Gats (Matthias Kanik)**
 
-*Gats*, a multifaceted artist known for his eclectic blend of psychedelic dance music, takes us on an expansive musical journey with "**Gnawave**". Collaborating with *Khalil Mounji*, they bridge the rich Moroccan Gnawa traditions with the vibrant pulse of Berlin's underground scene. This project serves as a tribute to *Maallem Said Benthami Oughassal*, celebrating his legacy through a fusion of sounds that cross cultural and musical boundaries. In a gesture of remembrance and support, proceeds from "**Gnawave**" contribute to a fund established for the family of the late master.
+*Gats (Matthias Kanik)*, a multifaceted artist known for his eclectic blend of psychedelic dance music, takes us on an expansive musical journey with "**Gnawave**". Collaborating with *Khalil Mounji*, they bridge the rich Moroccan Gnawa traditions with the vibrant pulse of Berlin's underground scene. This project serves as a tribute to *Maallem Said Benthami Oughassal*, celebrating his legacy through a fusion of sounds that cross cultural and musical boundaries. In a gesture of remembrance and support, proceeds from "**Gnawave**" contribute to a fund established for the family of the late master.
 
 ![gats](/media/gats.jpeg){:width="300px"}
 

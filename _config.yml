@@ -2,8 +2,9 @@ title: Gnawave Project
 baseurl: /
 url: https://pollinations.github.io/Gnawave/
 description: Bridging Moroccan Gnawa music traditions with contemporary artificial intelligence research.
+show_downloads: true
 github_username:  pollinations
-
+logo: /media/GnaouaCultureLogo.png
 # Build settings
 theme: jekyll-theme-hacker
 plugins:
