@@ -7,28 +7,26 @@ title: Gnawave Project Overview
 
 ## Introduction
 
-The Gnawave Project leads an innovative initiative, connecting Moroccan Gnawa music traditions with contemporary artificial intelligence research. This collaboration highlights the interdisciplinary approach to cultural preservation through technological innovation, involving both Moroccan and German expertise in a dialogue that spans geographical and disciplinary boundaries.
+The Gnawave Project leads an innovative initiative, connecting Moroccan Gnawa music traditions with contemporary artificial intelligence research. This collaboration highlights the interdisciplinary approach to cultural preservation through technological innovation, involving both Moroccan and German expertise in a dialogue that spans geographical and disciplinary boundaries. The project also encompasses an interdisciplinary residency program during the Essaouira Festival, where participants explore the technical and cultural aspects of this unique fusion, reflecting the project's innovative spirit.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Collaborative Objectives](#collaborative-objectives)
-  - [Outcomes](#outcomes)
-    - [Open-Source Dataset and Musical Data Visualizations](#open-source-dataset-and-musical-data-visualizations)
-    - [Music Release](#music-release)
-    - [Collaborative Live Performance](#collaborative-live-performance)
+  - [Open-Source Dataset and Musical Data Visualizations](#open-source-dataset-and-musical-data-visualizations)
+  - [Music Release](#music-release)
+  - [Collaborative Live Performance](#collaborative-live-performance)
 - [Project Todo List](#project-todo-list)
 - [Participants and Partners](#participants-and-partners)
 - [Artists and Collaborators](#artists-and-collaborators)
-  - [Featured Artists](#featured-artists)
-    - [Gats](#gats)
-    - [Khalil Mounji](#khalil-mounji)
-    - [Saeko Okuchi (Saeko Killy)](#saeko-okuchi-saeko-killy)
+  - [Gats](#gats)
+  - [Khalil Mounji](#khalil-mounji)
+  - [Saeko Okuchi (Saeko Killy)](#saeko-okuchi-saeko-killy)
 - [Gnawave Release Highlights](#gnawave-release-highlights)
-- [Residency Program Insights](#residency-program-insights)
+- [Institutional Engagement and Support](#institutional-engagement-and-support)
 - [Institutional Engagement and Support](#institutional-engagement-and-support)
 
-The Gnawave Project is an interdisciplinary residency program that merges the distinctive rhythmic patterns of Gnawa music with the analytical capabilities of artificial intelligence. This initiative seeks to preserve a vital cultural heritage and to broaden the scope of AI research in understanding and replicating complex musical traditions.
+The Gnawave Project is an interdisciplinary initiative that merges the distinctive rhythmic patterns of Gnawa music with the analytical capabilities of artificial intelligence. This initiative seeks to preserve a vital cultural heritage and to broaden the scope of AI research in understanding and replicating complex musical traditions.
 
 
 ## Collaborative Objectives
@@ -100,10 +98,6 @@ The "Gnawave" release exemplifies the project's accomplishments, featuring a ble
 <iframe width="512px" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1729743579&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/g-a-t-s" title="Gats" target="_blank" style="color: #cccccc; text-decoration: none;">Gats</a> · <a href="https://soundcloud.com/g-a-t-s/sets/gnawave" title="Gnawave" target="_blank" style="color: #cccccc; text-decoration: none;">Gnawave on SoundCloud</a></div>
 
 ![gnawave release](/media/gnawave release.jpeg){:width="512px"}
-
-## Residency Program Insights
-
-Held during the Essaouira Festival, the Gnawave Residency Program represents the project's fundamental goals of exploration and integration. Through workshops, performances, and collaborative sessions, participants explore the technical and cultural aspects of this unique fusion, culminating in a live showcase that reflects the project's innovative spirit.
 
 ## Institutional Engagement and Support
 
