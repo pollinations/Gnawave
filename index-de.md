@@ -7,8 +7,9 @@ title: 🎶 Gnawave Projektübersicht 🎶
 
 Für eine prägnante Zusammenfassung siehe das [Einseiter](./one-pager-de.html).
 
-## **Einführung** 🚀
+Für die englische Version, siehe [hier](./index.html).
 
+## **Einführung** 🚀
 - **Wesen**: Eine Mischung aus **marokkanischer Gnawa-Musik** und **KI-Technologie**, die auf kulturelle Bewahrung und künstlerische Erkundung abzielt.
 - **Ziel**: Gnawa-Musik zu schützen, während die Rolle der KI bei der Entschlüsselung und Verbesserung komplexer musikalischer Traditionen erforscht wird.
 - **Zusammenarbeit**: Eine Partnerschaft zwischen marokkanischen und deutschen Experten, die geografische und disziplinäre Grenzen überbrückt. Die Initiative beginnt mit einem Residenzprogramm, das zum Essaouira Festival führt.

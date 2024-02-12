@@ -7,6 +7,8 @@ title: 🎶 Gnawave Project Overview 🎶
 
 For a concise summary, see the [One-Pager](./one-pager.html).
 
+For a German version, see [Gnawave Projektübersicht](./index-de.html).
+
 ## **Introduction** 🚀
 
 - **Essence**: A blend of **Moroccan Gnawa music** and **AI technology** aimed at cultural preservation and artistic exploration.

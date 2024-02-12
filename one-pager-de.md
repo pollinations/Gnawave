@@ -7,6 +7,8 @@ title: Gnawave Projektübersicht
 
 Für eine detaillierte Einführung, siehe die [Hauptseite](./index-de.html).
 
+Für die englische Version, siehe [hier](./one-pager.html).
+
 ## **Schnellübersicht**
 
 - **Essenz**: Eine kollaborative Fusion aus **marokkanischer Gnawa-Musik**, **europäischem künstlerischem Feingefühl**, und **KI-Kreativität** zur kulturellen Bewahrung und innovativen Ausdrucksform.
