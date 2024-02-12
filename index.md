@@ -11,7 +11,7 @@ For a concise summary, see the [One-Pager](./one-pager.html).
 
 - **Essence**: Fusion of **Moroccan Gnawa music** and **AI technology** for cultural preservation and innovation.
 - **Goal**: To preserve Gnawa music and explore AI's potential in understanding complex musical traditions.
-- **Collaboration**: Between Moroccan and German experts, spanning geographical and disciplinary boundaries..
+- **Collaboration**: Between Moroccan and German experts, spanning geographical and disciplinary boundaries. The project kicks off with a residency starting on **_Thu, Jun 13, 2024_**, leading up to the Essaouira Festival.
 
 ## **Table of Contents** 📚
 
@@ -29,7 +29,7 @@ For a concise summary, see the [One-Pager](./one-pager.html).
 - [Gnawave Release Highlights](#gnawave-release-highlights)
 - [Institutional Engagement and Support](#institutional-engagement-and-support)
 
-The **Gnawave Project** is an *interdisciplinary initiative* that merges the **distinctive rhythmic patterns** of *Gnawa music* with the **analytical capabilities** of *artificial intelligence*. This initiative seeks to preserve a *vital cultural heritage* and to broaden the scope of AI research in understanding and replicating complex musical traditions.
+The **Gnawave Project** is an *interdisciplinary initiative* that merges the **distinctive rhythmic patterns** of *Gnawa music* with the **analytical capabilities** of *artificial intelligence*. This initiative seeks to preserve a *vital cultural heritage* and to broaden the scope of AI research in understanding and replicating complex musical traditions. The project's residency phase begins on Thu, Jun 13, 2024, and culminates with the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024.
 
 ## **Collaborative Objectives** 🎯
 
@@ -43,11 +43,11 @@ A key outcome of the **Gnawave Project** is the creation of an *open-source data
 
 ### **Music Release** 🎶
 
-This project is set to unveil a music release that is a testament to the rich collaboration between **Moroccan and German artists**, integrating AI-generated samples of Gnawa music. This blend of traditional sounds with contemporary electronic music elements not only celebrates the fusion of diverse cultural heritages but also ventures into new realms of music production.
+This project is set to unveil a music release that is a testament to the rich collaboration between **Moroccan and German artists**, integrating AI-generated samples of Gnawa music. This blend of traditional sounds with contemporary electronic music elements not only celebrates the fusion of diverse cultural heritages but also ventures into new realms of music production. The release coincides with the culmination of the Gnawave Project's residency and the Essaouira Festival in June 2024.
 
 ### **Collaborative Live Performance** 🎤
 
-Furthering the project's commitment to innovation, the **Gnawave Project** will host a live performance that showcases a unique blend of AI-enhanced interpretations of Gnawa music and collaborative artistry. This event will feature AI-generated samples and real-time AI processing, offering an immersive experience that underscores the creative synergy of traditional music and modern technology.
+Furthering the project's commitment to innovation, the **Gnawave Project** will host a live performance that showcases a unique blend of AI-enhanced interpretations of Gnawa music and collaborative artistry. This event will feature AI-generated samples and real-time AI processing, offering an immersive experience that underscores the creative synergy of traditional music and modern technology. The live performance is scheduled during the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024.
 
 ## **Project Todo List** ✅
 
@@ -63,7 +63,7 @@ The **Gnawave Project** is a collaborative endeavor that brings together a diver
 
 ![GnaouaCultureLogo](/media/GnaouaCultureLogo.png){:width="200px"}
 
-- **Festival Gnaoua**: A renowned event that showcases the rich musical traditions of Gnawa alongside other world music genres. The festival offers a dynamic platform for artists and audiences to engage and share in the spirit of music and cultural exchange. [Learn more](https://www.festival-gnaoua.net/)
+- **Festival Gnaoua**: A renowned event that showcases the rich musical traditions of Gnawa alongside other world music genres. The festival offers a dynamic platform for artists and audiences to engage and share in the spirit of music and cultural exchange. The Essaouira Festival is scheduled from Thu, Jun 27, 2024 – Sat, Jun 29, 2024. [Learn more](https://www.festival-gnaoua.net/)
 
 ![Festival Gnaoua](/media/gnaoua_festival.png){:width="200px"}
 

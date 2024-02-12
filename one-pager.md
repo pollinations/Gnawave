@@ -10,12 +10,14 @@ title: Gnawave Project Overview
 - **Essence**: Fusion of **Moroccan Gnawa music** and **AI technology** for cultural preservation and innovation.
 - **Goal**: To preserve Gnawa music and explore AI's potential in understanding complex musical traditions.
 - **Collaboration**: Between Moroccan and German experts, spanning geographical and disciplinary boundaries.
+- **Residency Start Date**: Thu, Jun 13, 2024, leading up to the Essaouira Festival.
+- **Essaouira Festival Dates**: Thu, Jun 27, 2024 – Sat, Jun 29, 2024.
 
 ## **Key Components**
 
 - **Open-Source Dataset**: Creation of a dataset for research and innovation at the intersection of music and AI.
 - **Music Release**: A blend of traditional Gnawa music with contemporary electronic elements.
-- **Live Performance**: Showcasing AI-enhanced interpretations of Gnawa music.
+- **Live Performance**: Showcasing AI-enhanced interpretations of Gnawa music during the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024.
 
 ## **Project Milestones**
 
@@ -27,7 +29,7 @@ title: Gnawave Project Overview
 
 - **Gnaoua Culture**: Promoting and preserving Gnaoua culture through research, education, and collaboration.
   - ![GnaouaCultureLogo](/media/GnaouaCultureLogo.png){:width="200px"}
-- **Festival Gnaoua**: Showcasing the rich musical traditions of Gnawa and world music genres.
+- **Festival Gnaoua**: Showcasing the rich musical traditions of Gnawa and world music genres during the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024.
   - ![Festival Gnaoua](/media/gnaoua_festival.png){:width="200px"}
 
 ## **Featured Artists**
@@ -46,4 +48,4 @@ title: Gnawave Project Overview
 
 ## **Support and Engagement**
 
-- **Call to Action**: Encouraging institutions at the crossroads of culture, technology, and education to support the Gnawave Project.
+- **Call to Action**: Encouraging institutions at the crossroads of culture, technology, and education to support the Gnawave Project, especially during the residency starting Thu, Jun 13, 2024, and the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024.
