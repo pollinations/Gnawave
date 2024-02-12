@@ -16,6 +16,7 @@ The Gnawave Project leads an innovative initiative, connecting Moroccan Gnawa mu
 - [Project Todo List](#project-todo-list)
 - [Participants and Partners](#participants-and-partners)
 - [Artists and Collaborators](#artists-and-collaborators)
+- [Open-Source Dataset](#open-source-dataset)
 - [Gnawave Release Highlights](#gnawave-release-highlights)
 - [Residency Program Insights](#residency-program-insights)
 - [Institutional Engagement and Support](#institutional-engagement-and-support)
@@ -70,6 +71,13 @@ Saeko Okuchi, known as Saeko Killy, is a key figure in the Leftfield Clubsound s
 [Discover Saeko Killy's latest release](https://www.bureau-b.com/saeko_killy.php)
 
 ![Saeko Killy](/media/saekokilly.jpeg){:width="300px"}
+
+## Open-Source Dataset and Musical Data Visualizations
+
+A key outcome of the Gnawave Project is the creation of an open-source dataset, which is highlighted as beneficial for both cultural heritage and technological advancement. This dataset, along with innovative musical data visualizations, will serve as valuable resources for further research and innovation at the intersection of music and artificial intelligence. These tools foster a deeper understanding of the intricate rhythms and melodies of Gnawa music, offering new perspectives through visual representation of musical patterns.
+
+![Rhythm Visualization](/media/rhythmneck.png){:width="512px"}
+
 ## Gnawave Release Highlights
 
 The "Gnawave" release exemplifies the project's accomplishments, featuring a blend of Gnawa music with electronic elements from Berlin's underground scene. This album not only honors the legacy of Maallem Said Benthami Oughassal but also supports his family, demonstrating the project's dedication to community and cultural sustainability.
