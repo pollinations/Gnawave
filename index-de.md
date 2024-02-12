@@ -5,7 +5,7 @@ title: 🎶 Gnawave Projektübersicht 🎶
 
 # **Gnawave Projektübersicht** 🌍🎵
 
-Für eine prägnante Zusammenfassung siehe das [Einseiter](./one-pager.html).
+Für eine prägnante Zusammenfassung siehe das [Einseiter](./one-pager-de.html).
 
 ## **Einführung** 🚀
 

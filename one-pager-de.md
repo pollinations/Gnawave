@@ -5,7 +5,7 @@ title: Gnawave Projektübersicht
 
 # **Gnawave Projektübersicht**
 
-Für eine detaillierte Einführung siehe die [Hauptseite](./index.html).
+Für eine detaillierte Einführung siehe die [Hauptseite](./index-de.html).
 
 ## **Kurzübersicht**
 
