@@ -105,3 +105,8 @@ The "**Gnawave**" release, dated December 1, 2023, showcases the project's achie
 ## **Institutional Engagement and Support** 🏛️
 
 We encourage institutions at the crossroads of **culture**, **technology**, and **education** to support the **Gnawave Project**. Your participation can significantly enhance the impact of this initiative, ensuring the preservation of Gnawa music and furthering AI research. For partnership opportunities and support, please contact us.
+
+### Potential Institutions for Support (Not Yet Contacted)
+- **The Hague Gnawa Festival** - An event that celebrates Gnawa music and culture, featuring international talents. [Learn more](https://www.thehagueonline.com/event/gnawa-festival-2022)
+- **Goethe Institut** - A global cultural institute that promotes international cultural cooperation.
+- **Hybrid Space Lab** - An interdisciplinary lab exploring the intersections of culture, technology, and space.
