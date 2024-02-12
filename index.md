@@ -5,7 +5,7 @@ title: 🎶 Gnawave Project Overview 🎶
 
 # **Gnawave Project Overview** 🌍🎵
 
-For a concise summary, see our [One-Pager](/one-pager.md).
+For a concise summary, see our [One-Pager]({% link one_pager.md %}).
 
 ## **Introduction** 🚀
 
