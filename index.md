@@ -41,11 +41,11 @@ The Gnawave Project is a collaborative endeavor that brings together a diverse g
 
 ![GnaouaCultureLogo](/media/GnaouaCultureLogo.png){:width="200px"}
 
-- **Gnaoua World Music Festival**: A renowned event that showcases the rich musical traditions of Gnawa alongside other world music genres. The festival offers a dynamic platform for artists and audiences to engage and share in the spirit of music and cultural exchange.
+- **Festival Gnaoua**: A renowned event that showcases the rich musical traditions of Gnawa alongside other world music genres. The festival offers a dynamic platform for artists and audiences to engage and share in the spirit of music and cultural exchange. [Learn more](https://www.festival-gnaoua.net/)
 
-![Gnaoua World Music Festival](/media/gnaoua_festival.png){:width="200px"}
+![Festival Gnaoua](/media/gnaoua_festival.png){:width="200px"}
 
-![Gnaoua World Music Festival](/media/gnaoua_world_music_festival.jpeg){:width="512px"}
+![Festival Gnaoua](/media/gnaoua_world_music_festival.jpeg){:width="512px"}
 
 Additional collaborations include Moroccan and German musicians, AI developers, and cultural preservationists, all contributing to a vibrant exchange of knowledge and creative practices.
 
@@ -59,15 +59,22 @@ Gats, a multifaceted artist known for his eclectic blend of psychedelic dance mu
 
 ### Khalil Mounji
 
-Khalil Mounji is a Gnawa musician and community activist who blends tradition and modernity to create a unique style. He founded Gnaoua Culture, an organization that uses technology to promote and preserve the Gnawa heritage through music and education. He is dedicated to sharing the wealth of Gnawa culture with the world.
+Khalil Mounji is a Gnawa musician and community activist who blends tradition and modernity to create a unique style. He founded Gnaoua Culture, an organization that uses technology to promote and preserve the Gnawa heritage through music and education. He is dedicated to sharing the wealth of Gnawa culture with the world. [Learn more about Khalil Mounji](https://www.remix-culture.org/khalil-mounji)
 
 ![Khalil Mounji](/media/khalil.jpeg){:width="300px"}
 
+### Saeko Okuchi (Saeko Killy)
+
+Saeko Okuchi, known as Saeko Killy, is a key figure in the Leftfield Clubsound scene. Her debut album, 'Morphing Polaroids,' combines Dub, Post-Punk, and electronic beats. A Tokyo native, Saeko's musical journey took her from early piano and guitar lessons to the underground scenes of Berlin and São Paulo. Her work, including the pandemic-inspired 'Morphing Polaroids' with soFa elsewhere, showcases her innovative approach to music.
+
+[Discover Saeko Killy's latest release](https://www.bureau-b.com/saeko_killy.php)
+
+![Saeko Killy](/media/saekokilly.jpeg){:width="300px"}
 ## Gnawave Release Highlights
 
 The "Gnawave" release exemplifies the project's accomplishments, featuring a blend of Gnawa music with electronic elements from Berlin's underground scene. This album not only honors the legacy of Maallem Said Benthami Oughassal but also supports his family, demonstrating the project's dedication to community and cultural sustainability.
 
-<iframe width="512px" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1729743579&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/g-a-t-s" title="Gats" target="_blank" style="color: #cccccc; text-decoration: none;">Gats</a> · <a href="https://soundcloud.com/g-a-t-s/sets/gnawave" title="Gnawave" target="_blank" style="color: #cccccc; text-decoration: none;">Gnawave</a></div>
+<iframe width="512px" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1729743579&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/g-a-t-s" title="Gats" target="_blank" style="color: #cccccc; text-decoration: none;">Gats</a> · <a href="https://soundcloud.com/g-a-t-s/sets/gnawave" title="Gnawave" target="_blank" style="color: #cccccc; text-decoration: none;">Gnawave on SoundCloud</a></div>
 
 ![gnawave release](/media/gnawave release.jpeg){:width="512px"}
 
