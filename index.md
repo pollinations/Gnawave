@@ -13,7 +13,9 @@ The Gnawave Project leads an innovative initiative, connecting Moroccan Gnawa mu
 
 - [Project Overview](#project-overview)
 - [Collaborative Objectives](#collaborative-objectives)
+- [Project Todo List](#project-todo-list)
 - [Participants and Partners](#participants-and-partners)
+- [Artists and Collaborators](#artists-and-collaborators)
 - [Gnawave Release Highlights](#gnawave-release-highlights)
 - [Residency Program Insights](#residency-program-insights)
 - [Institutional Engagement and Support](#institutional-engagement-and-support)
@@ -24,6 +26,12 @@ The Gnawave Project is an interdisciplinary residency program that merges the di
 ## Collaborative Objectives
 
 Our mission is dual: to ensure the longevity and global recognition of Gnawa music through digital documentation and innovation, and to investigate the potential of AI in capturing and enhancing the essence of traditional musical expressions. This collaboration aims to create a mutual benefit between cultural preservation and technological progress.
+
+## Project Todo List
+
+- [x] Create first draft of website
+- [ ] First contact with potential institutions (Goethe Institut)
+- [ ] Add artist / collaborators section to the website
 
 ## Participants and Partners
 
@@ -41,9 +49,25 @@ The Gnawave Project is a collaborative endeavor that brings together a diverse g
 
 Additional collaborations include Moroccan and German musicians, AI developers, and cultural preservationists, all contributing to a vibrant exchange of knowledge and creative practices.
 
+## Artists and Collaborators
+
+### Gats
+
+Gats, a multifaceted artist known for his eclectic blend of psychedelic dance music, takes us on an expansive musical journey with "Gnawave". Collaborating with Khalil Mounji, they bridge the rich Moroccan Gnawa traditions with the vibrant pulse of Berlin's underground scene. This project serves as a tribute to Maallem Said Benthami Oughassal, celebrating his legacy through a fusion of sounds that cross cultural and musical boundaries. In a gesture of remembrance and support, proceeds from "Gnawave" contribute to a fund established for the family of the late master.
+
+![gats](/media/gats.jpeg){:width="300px"}
+
+### Khalil Mounji
+
+Khalil Mounji is a Gnawa musician and community activist who blends tradition and modernity to create a unique style. He founded Gnaoua Culture, an organization that uses technology to promote and preserve the Gnawa heritage through music and education. He is dedicated to sharing the wealth of Gnawa culture with the world.
+
+![Khalil Mounji](/media/khalil.jpeg){:width="300px"}
+
 ## Gnawave Release Highlights
 
 The "Gnawave" release exemplifies the project's accomplishments, featuring a blend of Gnawa music with electronic elements from Berlin's underground scene. This album not only honors the legacy of Maallem Said Benthami Oughassal but also supports his family, demonstrating the project's dedication to community and cultural sustainability.
+
+<iframe width="512px" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1729743579&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/g-a-t-s" title="Gats" target="_blank" style="color: #cccccc; text-decoration: none;">Gats</a> · <a href="https://soundcloud.com/g-a-t-s/sets/gnawave" title="Gnawave" target="_blank" style="color: #cccccc; text-decoration: none;">Gnawave</a></div>
 
 ![gnawave release](/media/gnawave release.jpeg){:width="512px"}
 
