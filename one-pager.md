@@ -5,6 +5,8 @@ title: Gnawave Project Overview
 
 # **Gnawave Project Overview**
 
+For a detailed introduction, see the [Main Page](./index.html).
+
 ## **Quick Overview**
 
 - **Essence**: A collaborative fusion of **Moroccan Gnawa music**, **European artistic sensibilities**, and **AI creativity** for cultural preservation and innovative expression.
