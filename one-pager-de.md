@@ -35,11 +35,11 @@ Für die englische Version siehe [hier](./one-pager.html).
 
 ## **Unterstützung und Beteiligung**
 
-- **Call to Action**: Einladung an Institutionen an der Schnittstelle von Kultur, Kunst, und Technologie, das Gnawave-Projekt zu unterstützen, insbesondere während der Residenz ab Do., 13. Juni 2024, und dem Essaouira-Festival von Do., 27. Juni 2024 – Sa., 29. Juni 2024.
+- **Aufruf zum Handeln**: Einladung an Institutionen an der Schnittstelle von Kultur, Kunst, und Technologie, das Gnawave-Projekt zu unterstützen, insbesondere während der Residenz ab Do., 13. Juni 2024, und dem Essaouira-Festival von Do., 27. Juni 2024 – Sa., 29. Juni 2024.
 
 ## **Kontakt für Partnerschaften und Unterstützung**
 
-- For partnership opportunities und Unterstützung, bitte wenden Sie sich an:
+- Für Partnerschaftsmöglichkeiten und Unterstützung wenden Sie sich bitte an:
 
 Für Partnerschaftsmöglichkeiten und Unterstützung wenden Sie sich bitte an:
 
