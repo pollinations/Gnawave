@@ -1,4 +1,4 @@
 #!/bin/bash
-# aider one-pager* --message "translate one-pager.md one-pager-de.md (replace the contents if the detination already exists but information is missing.) . you have the ability to translate to german. believe in yourself" --model gpt-4-0125-preview
+aider one-pager* --message "translate one-pager.md one-pager-de.md (replace the contents if the detination already exists but information is missing.) . you have the ability to translate to german. believe in yourself" --model gpt-4-0125-preview
 # aider index* --message "translate index.md index-de.md (replace contents the contents if it already exists. you have the ability to translate to german. believe in yourself" --model gpt-4-0125-preview
-aider _includes/*.md --message "translate _includes/*.md to _includes/*-de.md (replace contents if they already exist. you have the ability to translate to german." --model gpt-4-0125-preview
+#aider _includes/partners*.md --message "translate _includes/*.md to _includes/*-de.md (replace contents if they already exist. you have the ability to translate to german." --model gpt-4-0125-preview
