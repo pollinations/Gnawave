@@ -9,14 +9,6 @@ For a concise summary, see the [One-Pager](./one-pager.html).
 
 For a German version, see [Gnawave Projektübersicht](./index-de.html).
 
-## **Introduction** 🚀
-
-- **Essence**: A blend of **Moroccan Gnawa music** and **AI technology** aimed at cultural preservation and artistic exploration.
-- **Goal**: To safeguard Gnawa music while delving into AI's role in deciphering and enhancing complex musical traditions.
-- **Collaboration**: A partnership between Moroccan and German experts, bridging geographical and disciplinary divides. The initiative begins with a residency leading to the Essaouira Festival.
-- **Residency Start Date**: **_Thu, Jun 13, 2024_**
-- **Location**: Essaouira, Morocco
-
 ## **Table of Contents** 📚
 
 - [Introduction](#introduction)
@@ -32,6 +24,8 @@ For a German version, see [Gnawave Projektübersicht](./index-de.html).
   - [Saeko Okuchi (Saeko Killy)](#saeko-okuchi-saeko-killy)
 - [Gnawave Release Highlights](#gnawave-release-highlights)
 - [Institutional Engagement and Support](#institutional-engagement-and-support)
+
+{% include introduction.md %}
 
 The **Gnawave Project** is an *interdisciplinary initiative* that combines the **unique rhythms** of *Gnawa music* with the **creative applications** of *artificial intelligence*. This project aims to preserve important cultural heritage while expanding the boundaries of AI in music. The residency phase starts on Thu, Jun 13, 2024, and concludes with the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024.
 
