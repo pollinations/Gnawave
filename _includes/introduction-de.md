@@ -1,4 +1,4 @@
-## **Introduction** 🚀
+## **Einleitung** 🚀
 
 - **Wesen**: Eine Mischung aus **marokkanischer Gnawa-Musik** und **KI-Technologie**, die auf kulturelle Bewahrung und künstlerische Erkundung abzielt.
 - **Ziel**: Gnawa-Musik zu schützen, während die Rolle der KI beim Entschlüsseln und Verbessern komplexer musikalischer Traditionen erforscht wird.
@@ -6,7 +6,7 @@
 - **Beginn des Aufenthalts**: **_Do., 13. Juni 2024_**
 - **Ort**: Essaouira, Marokko
 
-## **Objectives**
+## **Ziele**
 
 - **_Fördern_** ***Gnawa-Musik*** weltweit durch **_digitale Innovation_**.
 - **_Erforschen_** der Rolle der KI bei der **_Verbesserung_** traditioneller Musikformen.

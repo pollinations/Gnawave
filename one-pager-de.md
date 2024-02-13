@@ -9,25 +9,8 @@ Für eine detaillierte Einführung, siehe die [Hauptseite](./index-de.html).
 
 Für die englische Version, siehe [hier](./one-pager.html).
 
-## **Schnellübersicht**
+{% include introduction-de.md %}
 
-- **Essenz**: Eine kollaborative Fusion aus **marokkanischer Gnawa-Musik**, **europäischem künstlerischem Feingefühl**, und **KI-Kreativität** zur kulturellen Bewahrung und innovativen Ausdrucksform.
-- **Ziel**: Das reiche Erbe der Gnawa-Musik zu schützen, während die Synergien zwischen traditionellen Musikern, europäischen Künstlern und KI-Kreativen bei der Erstellung komplexer musikalischer Erzählungen erforscht werden.
-- **Zusammenarbeit**: Ein internationales Unterfangen, das marokkanische und europäische Künstler mit KI-Kreativen vereint, um geografische und disziplinäre Grenzen zu überwinden.
-- **Beginn der Residenz**: Do., 13. Juni 2024, gipfelnd in einer Vorstellung beim Essaouira-Festival.
-- **Essaouira Festival Termine**: Do., 27. Juni 2024 – Sa., 29. Juni 2024.
-
-## **Kernkomponenten**
-
-- **Kollaborative Plattform**: Entwicklung eines gemeinsamen Raumes für Künstler, Musiker, und KI-Kreative zum Austausch von Ideen und Innovationen an der Schnittstelle von Musik und Technologie.
-- **Musikveröffentlichung**: Eine harmonische Mischung aus traditionellen Gnawa-Rhythmen, europäischen künstlerischen Einflüssen und von KI generierten Elementen.
-- **Live-Auftritt**: Eine Vorstellung von kollaborativen Werken, die Gnawa-Musik mit europäischer Kunstfertigkeit und KI-Innovation während des Essaouira-Festivals von Do., 27. Juni 2024 – Sa., 29. Juni 2024 verbinden.
-
-## **Projekt Meilensteine**
-
-- [x] **Website-Entwurf**: Fertigstellung des ersten Entwurfs der Projektwebsite.
-- [ ] **Institutionelles Engagement**: Aufbau von Verbindungen zu Institutionen, die kulturelle und künstlerische Kooperationen unterstützen, wie z.B. das Goethe-Institut.
-- [ ] **Mitarbeiterbereich**: Einführung eines Bereichs auf der Website, der Künstlern, Musikern und KI-Kreativen gewidmet ist, die am Projekt beteiligt sind.
 
 ## **Beteiligte und Partner**
 
