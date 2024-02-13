@@ -3,11 +3,11 @@ layout: default
 title: Gnawave Projektübersicht
 ---
 
-# **Gnawave Projektübersicht**
+# **Übersicht über das Gnawave-Projekt**
 
-Für eine detaillierte Einführung, siehe die [Hauptseite](./index-de.html).
+Für eine detaillierte Einführung siehe die [Hauptseite](./index.html).
 
-Für die englische Version, siehe [hier](./one-pager.html).
+Für die englische Version siehe [hier](./one-pager.html).
 
 {% include introduction-de.md %}
 
