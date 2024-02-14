@@ -1,41 +1,38 @@
+## **Teilnehmer und Partner** 🤝
 
-## **Participants and Partners** 🤝
+Das **Gnawave-Projekt** ist ein kollaboratives Unterfangen, das eine vielfältige Gruppe von Talenten und Organisationen zusammenbringt, von denen jede ihre einzigartige Expertise beiträgt. Unten ist eine Liste unserer geschätzten Partner:
 
-
-The **Gnawave Project** is a collaborative endeavor that brings together a diverse group of talents and organizations, each contributing their unique expertise. Below is a list of our esteemed partners:
-
-- **Gnaoua Culture**: A key organization committed to the promotion and preservation of *Gnaoua culture* through research, education, and collaboration. Gnaoua Culture is instrumental in documenting and authentically representing Gnawa music and traditions, using technology to share this rich heritage worldwide.
+- **Gnaoua Kultur**: Eine Schlüsselorganisation, die sich der Förderung und Bewahrung der *Gnaoua-Kultur* durch Forschung, Bildung und Zusammenarbeit widmet. Gnaoua Kultur ist maßgeblich an der Dokumentation und authentischen Darstellung der Gnawa-Musik und -Traditionen beteiligt und nutzt Technologie, um dieses reiche Erbe weltweit zu teilen.
 
 ![GnaouaCultureLogo](/media/GnaouaCultureLogo.png){:width="200px"}
 
-- **Festival Gnaoua**: A renowned event that showcases the rich musical traditions of Gnawa alongside other world music genres. The festival offers a dynamic platform for artists and audiences to engage and share in the spirit of music and cultural exchange. The Essaouira Festival is scheduled from Thu, Jun 27, 2024 – Sat, Jun 29, 2024. [Learn more](https://www.festival-gnaoua.net/)
+- **Festival Gnaoua**: Eine renommierte Veranstaltung, die die reichen musikalischen Traditionen der Gnawa neben anderen Weltmusikgenres präsentiert. Das Festival bietet eine dynamische Plattform für Künstler und Publikum, um sich zu engagieren und im Geiste der Musik und des kulturellen Austauschs zu teilen. Das Essaouira Festival ist geplant von Do, 27. Juni 2024 – Sa, 29. Juni 2024. [Erfahren Sie mehr](https://www.festival-gnaoua.net/)
 
 ![Festival Gnaoua](/media/gnaoua_festival.png){:width="200px"}
 
 ![Festival Gnaoua](/media/gnaoua_world_music_festival.jpeg){:width="512px"}
 
-Additional collaborations include **Moroccan and German musicians**, **AI developers**, and **cultural preservationists**, all contributing to a vibrant exchange of knowledge and creative practices.
+Zusätzliche Zusammenarbeiten umfassen **marokkanische und deutsche Musiker**, **KI-Entwickler** und **Kulturerhaltungsexperten**, die alle zu einem lebendigen Austausch von Wissen und kreativen Praktiken beitragen.
 
 
-## **Artists and Collaborators** 🎨
+## **Künstler und Mitarbeiter** 🎨
 
 ### **Gats (Matthias Kanik)**
 
-*Gats (Matthias Kanik)*, a multifaceted artist known for his eclectic blend of psychedelic dance music, takes us on an expansive musical journey with "**Gnawave**". Collaborating with *Khalil Mounji*, they bridge the rich Moroccan Gnawa traditions with the vibrant pulse of Berlin's underground scene. This project serves as a tribute to *Maallem Said Benthami Oughassal*, celebrating his legacy through a fusion of sounds that cross cultural and musical boundaries. In a gesture of remembrance and support, proceeds from "**Gnawave**" contribute to a fund established for the family of the late master.
+*Gats (Matthias Kanik)*, ein facettenreicher Künstler, bekannt für seine eklektische Mischung aus psychedelischer Tanzmusik, nimmt uns mit auf eine umfassende musikalische Reise mit "**Gnawave**". In Zusammenarbeit mit *Khalil Mounji* überbrücken sie die reichen marokkanischen Gnawa-Traditionen mit dem lebendigen Puls der Berliner Underground-Szene. Dieses Projekt dient als Hommage an *Maallem Said Benthami Oughassal*, dessen Vermächtnis durch eine Fusion von Klängen gefeiert wird, die kulturelle und musikalische Grenzen überschreiten. Als Geste der Erinnerung und Unterstützung tragen die Erlöse aus "**Gnawave**" zu einem für die Familie des verstorbenen Meisters eingerichteten Fonds bei.
 
 ![gats](/media/gats.jpeg){:width="300px"}
 
 ### **Khalil Mounji**
 
-*Khalil Mounji* is a Gnawa musician and community activist who blends tradition and modernity to create a unique style. He founded **Gnaoua Culture**, an organization that uses technology to promote and preserve the Gnawa heritage through music and education. He is dedicated to sharing the wealth of Gnawa culture with the world. For inquiries and collaboration, reach out to Khalil at khalil.mounji[at]gmail[dot]com.
+*Khalil Mounji* ist ein Gnawa-Musiker und Gemeinschaftsaktivist, der Tradition und Moderne verbindet, um einen einzigartigen Stil zu schaffen. Er gründete **Gnaoua Kultur**, eine Organisation, die Technologie nutzt, um das Gnawa-Erbe durch Musik und Bildung zu fördern und zu bewahren. Er ist der Verbreitung des reichen Gnawa-Kulturerbes in der Welt gewidmet. Für Anfragen und Zusammenarbeit erreichen Sie Khalil unter khalil.mounji[at]gmail[dot]com.
 
 ![Khalil Mounji](/media/khalil.jpeg){:width="300px"}
 
 ### **Saeko Okuchi (Saeko Killy)**
 
-*Saeko Okuchi*, known as *Saeko Killy*, is a key figure in the Leftfield Clubsound scene. Her debut album, '**Morphing Polaroids**,' combines Dub, Post-Punk, and electronic beats. A Tokyo native, Saeko's musical journey took her from early piano and guitar lessons to the underground scenes of Berlin and São Paulo. Her work, including the pandemic-inspired '**Morphing Polaroids**' with soFa elsewhere, showcases her innovative approach to music.
+*Saeko Okuchi*, bekannt als *Saeko Killy*, ist eine Schlüsselfigur in der Leftfield Clubsound-Szene. Ihr Debütalbum, '**Morphing Polaroids**', kombiniert Dub, Post-Punk und elektronische Beats. Als gebürtige Tokioterin führte Saekos musikalische Reise sie von frühen Klavier- und Gitarrenstunden zu den Underground-Szenen von Berlin und São Paulo. Ihre Arbeit, einschließlich des pandemie-inspirierten '**Morphing Polaroids**' mit soFa elsewhere, zeigt ihren innovativen Ansatz in der Musik.
 
-[Discover Saeko Killy's latest release](https://www.bureau-b.com/saeko_killy.php)
+[Entdecken Sie Saeko Killys neueste Veröffentlichung](https://www.bureau-b.com/saeko_killy.php)
 
 ![Saeko Killy](/media/saekokilly.jpeg){:width="300px"}
-
