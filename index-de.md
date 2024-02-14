@@ -51,7 +51,7 @@ Die "**Gnawave**"-Veröffentlichung, datiert auf den 1. Dezember 2023, präsenti
 
 <iframe width="512px" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1729743579&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/g-a-t-s" title="Gats" target="_blank" style="color: #cccccc; text-decoration: none;">Gats</a> · <a href="https://soundcloud.com/g-a-t-s/sets/gnawave" title="Gnawave" target="_blank" style="color: #cccccc; text-decoration: none;">Gnawave auf SoundCloud</a></div>
 
-[![gnawave release](media/gnawave release.jpeg){:width="256px"}](/media/gnawave release.jpeg)
+[![gnawave release](media/gnawave release.jpeg){:width="256px"}](media/gnawave release.jpeg)
 
 ## **Institutionelles Engagement und Unterstützung** 🏛️
 

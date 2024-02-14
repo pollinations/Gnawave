@@ -5,7 +5,7 @@ Our mission is **threefold**: to promote the *endurance and worldwide recognitio
 
 A primary deliverable of the **Gnawave Project** is an *open-source dataset*, crucial for both **cultural heritage** and **technological exploration**. Accompanied by innovative musical data visualizations, these resources will be instrumental for ongoing research and creative projects at the nexus of music and AI. They offer insights into Gnawa music's complex rhythms and melodies, providing fresh perspectives through the visual analysis of musical structures.
 
-![Rhythm Visualization](/media/rhythmneck.png){:width="512px"}
+![Rhythm Visualization](media/rhythmneck.png){:width="512px"}
 
 ### **Music Release** 🎶
 

@@ -5,3 +5,6 @@ gem 'jekyll-feed'
 gem 'webrick'
 gem 'jekyll-theme-minimal'
 gem 'jekyll-theme-leap-day'
+gem 'jekyll-theme-slate'
+gem 'jekyll-theme-tactile'
+

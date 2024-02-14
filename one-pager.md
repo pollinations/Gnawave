@@ -15,12 +15,13 @@ For the German version, see [here](./index-de.html).
 
 ## **Gnawave Release Highlights**
 
-- Celebrating the collaborative achievements of the project, honoring the legacy of Maallem Said Benthami Oughassal with a blend of traditional and AI-inspired music.
-  - ![gnawave release](/media/gnawave release.jpeg){:width="200px"}
+Celebrating the collaborative achievements of the project, honoring the legacy of Maallem Said Benthami Oughassal with a blend of traditional and AI-inspired music.
+
+![gnawave release](media/gnawave release.jpeg){:width="200px"}
 
 ## **Support and Engagement**
 
-- **Call to Action**: Inviting institutions at the intersection of culture, art, and technology to support the Gnawave Project, particularly during the residency starting Thu, Jun 13, 2024, and the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024.
+**Call to Action**: Inviting institutions at the intersection of culture, art, and technology to support the Gnawave Project, particularly during the residency starting Thu, Jun 13, 2024, and the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024.
 
 ## **Contact for Partnership Opportunities and Support**
 
