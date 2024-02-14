@@ -1,16 +1,16 @@
 
-Our mission is **threefold**: to promote the *endurance and worldwide recognition* of **Gnawa music** through digital innovation, to explore AI's ability to interpret and augment traditional musical forms, and to produce new artistic works incorporating AI-generated samples. This collaboration seeks to mutually benefit **cultural preservation**, **technological exploration**, and **artistic creation**.
+Unsere Mission ist **dreifach**: die *Ausdauer und weltweite Anerkennung* der **Gnawa-Musik** durch digitale Innovation zu fördern, die Fähigkeit der KI zu erkunden, traditionelle musikalische Formen zu interpretieren und zu erweitern, und neue künstlerische Werke zu produzieren, die KI-generierte Samples einbeziehen. Diese Zusammenarbeit sucht den gegenseitigen Nutzen von **kultureller Bewahrung**, **technologischer Erkundung** und **künstlerischer Schöpfung**.
 
-### **Open-Source Dataset and Musical Data Visualizations** 📊
+### **Open-Source-Datensatz und musikalische Datenvisualisierungen** 📊
 
-A primary deliverable of the **Gnawave Project** is an *open-source dataset*, crucial for both **cultural heritage** and **technological exploration**. Accompanied by innovative musical data visualizations, these resources will be instrumental for ongoing research and creative projects at the nexus of music and AI. They offer insights into Gnawa music's complex rhythms and melodies, providing fresh perspectives through the visual analysis of musical structures.
+Ein Hauptliefergegenstand des **Gnawave-Projekts** ist ein *Open-Source-Datensatz*, der sowohl für die **kulturelle Erbschaft** als auch für die **technologische Erkundung** entscheidend ist. Begleitet von innovativen musikalischen Datenvisualisierungen, werden diese Ressourcen für die laufende Forschung und kreative Projekte an der Schnittstelle von Musik und KI von entscheidender Bedeutung sein. Sie bieten Einblicke in die komplexen Rhythmen und Melodien der Gnawa-Musik und bieten frische Perspektiven durch die visuelle Analyse musikalischer Strukturen.
 
 ![Rhythm Visualization](/media/rhythmneck.png){:width="512px"}
 
-### **Music Release** 🎶
+### **Musikveröffentlichung** 🎶
 
-The project will release music that embodies the collaboration between **Moroccan and German artists**, featuring AI-generated interpretations of Gnawa music. This fusion not only honors the merging of different cultures but also opens new avenues in music production. The digital release aligns with the Gnawave Project's residency end and the Essaouira Festival in June 2024.
+Das Projekt wird Musik veröffentlichen, die die Zusammenarbeit zwischen **marokkanischen und deutschen Künstlern** verkörpert und KI-generierte Interpretationen der Gnawa-Musik präsentiert. Diese Fusion ehrt nicht nur das Zusammenkommen verschiedener Kulturen, sondern eröffnet auch neue Wege in der Musikproduktion. Die digitale Veröffentlichung stimmt mit dem Ende der Residenz des Gnawave-Projekts und dem Essaouira Festival im Juni 2024 überein.
 
-### **Collaborative Live Performance** 🎤
+### **Kollaborative Live-Performance** 🎤
 
-In line with our innovation goals, the **Gnawave Project** will present a live performance, blending AI-enhanced Gnawa music with collaborative artistry. This performance, featuring AI-generated samples and real-time AI processing, will provide an immersive experience that highlights the synergy between traditional music and contemporary technology. Scheduled for the Essaouira Festival from Thu, Jun 27, 2024 – Sat, Jun 29, 2024, it represents a key project milestone.
+Im Einklang mit unseren Innovationszielen wird das **Gnawave-Projekt** eine Live-Performance präsentieren, die KI-verstärkte Gnawa-Musik mit kollaborativer Kunstfertigkeit verbindet. Diese Performance, die KI-generierte Samples und Echtzeit-KI-Verarbeitung umfasst, wird ein immersives Erlebnis bieten, das die Synergie zwischen traditioneller Musik und zeitgenössischer Technologie hervorhebt. Geplant für das Essaouira Festival vom Donnerstag, den 27. Juni 2024 bis zum Samstag, den 29. Juni 2024, stellt es einen wichtigen Meilenstein des Projekts dar.
