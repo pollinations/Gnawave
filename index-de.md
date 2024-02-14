@@ -5,7 +5,7 @@ title: 🎶 Gnawave Projektübersicht 🎶
 
 # **Gnawave Projektübersicht** 🌍🎵
 
-Für eine prägnante Zusammenfassung siehe das [Einseiter](./one-pager-de.html).
+Für eine prägnante Zusammenfassung siehe den [Einseiter](./one-pager-de.html).
 
 Für die englische Version, siehe [hier](./index.html).
 
@@ -26,13 +26,10 @@ Für die englische Version, siehe [hier](./index.html).
 - [Projekt-Aufgabenliste](#projekt-aufgabenliste)
 - [Teilnehmer und Partner](#teilnehmer-und-partner)
 - [Künstler und Kollaborateure](#künstler-und-kollaborateure)
-  - [Gats (Matthias Kanik)](#gats-matthias-kanik)
-  - [Khalil Mounji](#khalil-mounji)
-  - [Saeko Okuchi (Saeko Killy)](#saeko-okuchi-saeko-killy)
-- [Highlights der Gnawave-Veröffentlichung](#highlights-der-gnawave-veröffentlichung)
+- [Gnawave-Veröffentlichungshighlights](#gnawave-veröffentlichungshighlights)
 - [Institutionelles Engagement und Unterstützung](#institutionelles-engagement-und-unterstützung)
 
-Das **Gnawave-Projekt** ist eine *interdisziplinäre Initiative*, die die **einzigartigen Rhythmen** der *Gnawa-Musik* mit den **kreativen Anwendungen** der *künstlichen Intelligenz* kombiniert. Dieses Projekt zielt darauf ab, wichtiges kulturelles Erbe zu bewahren und gleichzeitig die Grenzen der KI in der Musik zu erweitern. Die Residenzphase beginnt am Do., 13. Juni 2024, und endet mit dem Essaouira Festival vom Do., 27. Juni 2024 – Sa., 29. Juni 2024.
+Das **Gnawave-Projekt** ist eine *interdisziplinäre Initiative*, die die **einzigartigen Rhythmen** der *Gnawa-Musik* mit den **kreativen Anwendungen** der *künstlichen Intelligenz* kombiniert. Dieses Projekt zielt darauf ab, wichtiges kulturelles Erbe zu bewahren und gleichzeitig die Grenzen der KI in der Musik zu erweitern. Die Residenzphase beginnt am Donnerstag, den 13. Juni 2024, und endet mit dem Essaouira Festival vom Donnerstag, den 27. Juni 2024 bis zum Samstag, den 29. Juni 2024.
 
 ## **Ziele der Zusammenarbeit** 🎯
 
@@ -48,7 +45,11 @@ Das Projekt wird Musik veröffentlichen, die die Zusammenarbeit zwischen **marok
 
 ### **Kollaborative Live-Performance** 🎤
 
-Im Einklang mit unseren Innovationszielen wird das **Gnawave-Projekt** eine Live-Performance präsentieren, die KI-verstärkte Gnawa-Musik mit kollaborativer Kunstfertigkeit verbindet. Diese Performance, die KI-generierte Samples und Echtzeit-KI-Verarbeitung umfasst, wird ein immersives Erlebnis bieten, das die Synergie zwischen traditioneller Musik und zeitgenössischer Technologie hervorhebt. Geplant für das Essaouira Festival vom Do., 27. Juni 2024 – Sa., 29. Juni 2024, stellt es einen wichtigen Meilenstein des Projekts dar.
+Im Einklang mit unseren Innovationszielen wird das **Gnawave-Projekt** eine Live-Performance präsentieren, die KI-verstärkte Gnawa-Musik mit kollaborativer Kunstfertigkeit verbindet. Diese Performance, die KI-generierte Samples und Echtzeit-KI-Verarbeitung umfasst, wird ein immersives Erlebnis bieten, das die Synergie zwischen traditioneller Musik und zeitgenössischer Technologie hervorhebt. Geplant für das Essaouira Festival vom Donnerstag, den 27. Juni 2024 bis zum Samstag, den 29. Juni 2024, stellt es einen wichtigen Meilenstein des Projekts dar.
+
+## **Gnawa-Musik aus aktuellen KI-Modellen**
+{% include ai-examples.md %}
+
 ## **Projekt-Aufgabenliste** ✅
 
 - [x] Erste Entwurf der Website erstellen
@@ -73,9 +74,19 @@ Das **Gnawave-Projekt** ist ein kollaboratives Unterfangen, das eine vielfältig
 
 ### Potenzielle Unterstützer (Noch nicht kontaktiert)
 
+{%include potential-supporters.md %}
+
+
 ## **Kontakt für Partnerschaftsmöglichkeiten und Unterstützung** 📧
 
 Für Partnerschaftsmöglichkeiten und Unterstützung wenden Sie sich bitte an:
 
 - **Khalil Mounji**: `khalil.mounji[at]gmail[dot]com`
 - **Thomas H**: `thomash[at]pollinations[dot]ai` oder telefonisch unter `+49 eins sieben fünf vier acht sechs drei zwei vier sechs`.
+## **Kontakt für Partnerschaftsmöglichkeiten und Unterstützung** 📧
+
+Für Partnerschaftsmöglichkeiten und Unterstützung wenden Sie sich bitte an:
+
+- **Khalil Mounji**: `khalil.mounji[at]gmail[dot]com`
+- **Thomas H**: `thomash[at]pollinations[dot]ai` oder telefonisch unter `+49 eins sieben fünf vier acht sechs drei zwei vier sechs`.
+
